@@ -1,0 +1,1 @@
+sass --watch "D:\Dropbox\Shahnewaz\SmartConsultancy TF\SmartConsultancy-prev\SmartConsultancy\assets\scss\main.scss":"D:\Dropbox\Shahnewaz\SmartConsultancy TF\SmartConsultancy-prev\SmartConsultancy\assets\css\style.css"
